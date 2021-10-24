@@ -6,12 +6,8 @@ div {
   text-align: center;
 }
 
-ul {
-  list-style-type:none; /*removes bullets*/
-  margin:0;
-  padding:0;
-  overflow:auto;
-  background-color: rgb(77, 72, 72);
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 li {
@@ -31,10 +27,16 @@ li a:hover{
   color: black;
 }
 
-.profilePic {
-  width: 150px;px;
-  height: 150px;px;
-  border-radius: 50%;
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style-type:none; /*removes bullets*/
+  margin:0;
+  padding:0;
+  overflow:auto;
+  background-color: rgb(77, 72, 72);
 }
 
 .active {
@@ -44,6 +46,12 @@ li a:hover{
 .active:hover {
   background-color:coral;
   color:white;
+}
+
+.profilePic {
+  width: 150px;px;
+  height: 150px;px;
+  border-radius: 50%;
 }
 
 #hiddenH1 {
