@@ -6,19 +6,6 @@ div {
   text-align: center;
 }
 
-/*
-a {
-  text-transform: uppercase;
-  color:white;
-  background-color: gray;
-}
-
-a:hover {
-  color:black
-  
-}
-*/
-
 ul {
   list-style-type:none; /*removes bullets*/
   margin:0;
@@ -45,6 +32,8 @@ li a:hover{
 }
 
 .profilePic {
+  width: 150px;px;
+  height: 150px;px;
   border-radius: 50%;
 }
 
@@ -55,4 +44,9 @@ li a:hover{
 .active:hover {
   background-color:coral;
   color:white;
+}
+
+#hiddenH1 {
+  color:white;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

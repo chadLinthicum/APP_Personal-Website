@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>A1-Home</title> 
   <link href="style.css" rel="stylesheet" />
+
 </head>
 
 <body>
@@ -13,18 +14,25 @@
         <li><a href="index.html" class="active">Home</a></li>
         <li><a href="contact.html">Contact</a></li>
   </ul>
+
+  <style>
+    body{ 
+    background-image: url("assets/hauntedHouse.jpeg");      
+    } 
+  </style>
   
   <br>
   <br>
-
+  
   <div>
-    <a href="hiddenPage.html">
-    <img class="profilePic" src="assets/me.jpeg" onmouseover="this.src='assets/meAlt.jpeg'" onmouseout="this.src='assets/me.jpeg'">
-    </a>
+    <img class="profilePic" src="assets/meAlt.jpeg">
     <a class="profilePic" href="#"></a>
-    <h1>Hi! I'm Chad Linthicum</h1>
-    <p>I live in Virginia and I'm an upcoming developer.</p>
-    <p>When I'm not coding, I also enjoy playing music.</p>
+    <h1 id="hiddenH1">Let Us Rest</h1>
+    <p id="hiddenH1">Beats, Vox, Keys - Chad Linthicum</p>
+    <p id="hiddenH1">Bass - Keith Paul</p>
+    <audio controls>
+      <source src="assets/letUsRest.mp3" type="audio/mpeg">
+    </audio>
     
   </div>
 
