@@ -1,6 +1,6 @@
 #PERSONAL-WEBSITE
 
-Summary: A personal website written in HTML and CSS. This is a WIP and will be updated soon to reflect my career. 
+Summary: A personal website written in HTML and CSS. This is a WIP and will be updated soon to reflect my career and accomplishments. 
 
 Location: <a href="https://github.com/chadLinthicum/Personal-Website_HTML">Here</a>
 
