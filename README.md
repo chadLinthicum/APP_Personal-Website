@@ -1,4 +1,4 @@
-# APPLICATION-1-SIMPLE-PERSONAL-WEBSITE
+#PERSONAL-WEBSITE
 
 Summary: A simple personal website written in HTML and CSS.
 
