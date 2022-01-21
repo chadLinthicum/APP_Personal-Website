@@ -1,9 +1,9 @@
 #PERSONAL-WEBSITE
 
-Summary: A simple personal website written in HTML and CSS.
+Summary: A personal website written in HTML and CSS. This is a WIP and will be updated soon to reflect my career. 
 
-Location: https://github.com/PortableAnswers/APPLICATION-1-SIMPLE-PERSONAL-WEBSITE.git
+Location: <a href="https://github.com/chadLinthicum/Personal-Website_HTML">Here</a>
 
-Summary (more): Practices include class and ID creation as well as image manipulation and audio integration. 
+Logistics: Project consists of HTML and CSS. Practices include class and ID creation as well as image manipulation and audio integration. 
 
 Author: Chad Linthicum
